@@ -10,6 +10,7 @@ It is also possible to view some raw data if user needs to.
 
 ### Files used
 Data files used are: chicago.csv, new_york_city.csv and washington.csv
+Code file: bikeshare_2.py
 
 ### Credits
 udacity/course-collaboration-travel-plans
