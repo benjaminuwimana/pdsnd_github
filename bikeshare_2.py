@@ -73,7 +73,7 @@ def get_filters():
     day_menu = "\n\t1. All\n\t2. Sunday\n\t3. Monday\n\t4. Tuesday\n\t5. Wednesday\n\t6. Thursday\n\t7. Friday\n\t8. Saturday"
     while True:
         clear_screen()
-        print("\nPick a day. Enter day's number or name form items below:")
+        print("\nPick a day. Enter day's number or name from items below:")
         print(day_menu)
         day_input = input("\n\tYour choice please: ")
         if day_input == "1" or day_input.lower() == "all":
