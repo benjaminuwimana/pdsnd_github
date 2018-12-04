@@ -11,5 +11,5 @@ This project intends to analyse how bikes are share in some cities. It loads dat
 Data files used are: chicago.csv, new_york_city.csv and washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+udacity/course-collaboration-travel-plans
 
