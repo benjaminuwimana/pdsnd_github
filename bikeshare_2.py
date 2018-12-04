@@ -164,6 +164,7 @@ def time_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+    print()
 
 
 def station_stats(df):
@@ -188,6 +189,7 @@ def station_stats(df):
 
     print("\n\t\tThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+    print()
 
 
 def trip_duration_stats(df):
@@ -206,6 +208,7 @@ def trip_duration_stats(df):
 
     print("\n\t\tThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+    print()
 
 
 def user_stats(df):
@@ -240,6 +243,7 @@ def user_stats(df):
 
     print("\n\t\tThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+    print()
 
 
 def main():
