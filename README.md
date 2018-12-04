@@ -5,10 +5,10 @@ December 4, 2018
 Bike share project
 
 ### Description
-Describe what your project is about and what it does
+This project intends to analyse how bikes are share in some cities. It loads data from csv files and computes statistics on the most frequent times of travel, on the most popular stations and trip, on the total and average trip duration and bikeshare users.
 
 ### Files used
-Include the files used
+Data files used are: chicago.csv, new_york_city.csv and washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
